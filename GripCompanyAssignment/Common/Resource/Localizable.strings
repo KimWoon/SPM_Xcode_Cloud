@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  lazyNight.ios
+
+  Created by 김운 on 2021/11/01.
+  
+*/
+
+"home_title" = "홈";
+"search_title"="검색";
+"search_empty_title"="검색 결과가 없습니다.";
+"favorites_empty_title"="즐겨찾기 한 목록이 없습니다.";
+"favorites_tab_title"="내 즐겨찾기";
+"favorites_title"="즐겨찾기";
+"favorites_remove_title"="즐겨찾기 제거";
+"favorites_remove_alert_title"="즐겨찾기 제거 하시겠습니까?";
+"favorites_add_alert_title"="즐겨찾기 추가 하시겠습니까?";
+"cancel_title"="취소";
